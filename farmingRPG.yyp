@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "07757755-f1cb-499d-abde-fa812979817a",
+            "Value": {
+                "id": "d5c3dbc2-8ddb-44be-b8b5-8134957f755f",
+                "resourcePath": "tilesets\/tile_cottage\/tile_cottage.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "0ec1b04e-5c2c-4ea0-853e-64b8bf4251c7",
             "Value": {
                 "id": "c4277655-b6c0-458c-b373-84271629aefc",
@@ -123,6 +131,14 @@
             "Value": {
                 "id": "509cc435-da94-4323-8bf0-be3190002226",
                 "resourcePath": "sprites\/spr_feet_female_black\/spr_feet_female_black.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "41f02aca-dcee-4140-8422-c456aa31bf01",
+            "Value": {
+                "id": "182c1fe4-d26a-46f9-a5a2-64239af9621b",
+                "resourcePath": "sprites\/spr_character_mark\/spr_character_mark.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -255,6 +271,14 @@
             }
         },
         {
+            "Key": "7ed39ee6-6159-4cd4-9349-0761d0049f6d",
+            "Value": {
+                "id": "619c4a8d-d376-4ce6-aed5-691d0dffb4bf",
+                "resourcePath": "sprites\/spr_tile_cottage\/spr_tile_cottage.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "80eae657-331b-4eac-ad52-f4cac19b2b5d",
             "Value": {
                 "id": "11fc198d-f41a-41e3-97d9-07acc8497b7a",
@@ -263,11 +287,27 @@
             }
         },
         {
+            "Key": "950f472a-1afd-4b4d-879b-f3be637a2063",
+            "Value": {
+                "id": "1ce37c98-6fd4-4dd5-b953-2131e2745f49",
+                "resourcePath": "sprites\/spr_tile_terrain\/spr_tile_terrain.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "998e2f7a-7c61-4ee8-89cc-16a1eef0555f",
             "Value": {
                 "id": "e4fa2f63-8157-4772-833f-00afd9e3a7a1",
                 "resourcePath": "sprites\/spr_torso_female_dress\/spr_torso_female_dress.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9a64439a-4eb1-4244-8814-8242c171e872",
+            "Value": {
+                "id": "c1df94c9-d723-413a-bd19-8cd96ab5f094",
+                "resourcePath": "objects\/camera\/camera.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -287,6 +327,14 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "34f077f8-6739-4f5a-a4b5-3dda1d16feb3",
+                "resourcePath": "options\/linux\/options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "ae2095f2-b7d4-42b0-96d6-3d5de607d570",
             "Value": {
                 "id": "d673e416-4a8e-4fd9-9d2c-7461ed14706b",
@@ -295,11 +343,27 @@
             }
         },
         {
+            "Key": "b8690e7f-0c74-4e32-a15a-5e2256f9d376",
+            "Value": {
+                "id": "e87ca55e-42dc-458e-ba52-de36fafbe2ce",
+                "resourcePath": "tilesets\/tile_terrain\/tile_terrain.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "bdcda9de-6ce3-4574-86d7-bd02c43070c0",
             "Value": {
                 "id": "d3cd7426-1d1c-4fbd-a572-f01d8149fc68",
                 "resourcePath": "views\/bdcda9de-6ce3-4574-86d7-bd02c43070c0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c2de9178-e763-48b7-86dc-bab107b5998e",
+            "Value": {
+                "id": "a13beec7-7a11-4684-b489-b3bd3204275e",
+                "resourcePath": "objects\/obj_silvio\/obj_silvio.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -316,6 +380,14 @@
                 "id": "ad66d445-23e4-43ee-8d9f-fd5267b6c58f",
                 "resourcePath": "sprites\/spr_torso_male_teal\/spr_torso_male_teal.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
+            "Value": {
+                "id": "464093a1-e85a-4dad-95f2-d59043e40bb8",
+                "resourcePath": "options\/windows\/options_windows.yy",
+                "resourceType": "GMWindowsOptions"
             }
         },
         {
@@ -383,11 +455,11 @@
             }
         },
         {
-            "Key": "e69f1ca2-809e-41c7-b436-c5231dd08499",
+            "Key": "ec7e002c-4408-4936-b162-49f3ee4882a5",
             "Value": {
-                "id": "26052b22-4db4-4699-b530-340b73bfef22",
-                "resourcePath": "sprites\/spr_player\/spr_player.yy",
-                "resourceType": "GMSprite"
+                "id": "d6d0f76d-1210-4021-917a-0a7cd4db0e5d",
+                "resourcePath": "objects\/obj_alice\/obj_alice.yy",
+                "resourceType": "GMObject"
             }
         },
         {
